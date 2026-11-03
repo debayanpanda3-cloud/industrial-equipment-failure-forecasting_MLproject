@@ -7,7 +7,7 @@
 - **Project Title:** Industrial Equipment Failure Forecasting
 
 - **Dataset:** [AI4I 2020 Predictive Maintenance Dataset (10,000 records)](https://archive.ics.uci.edu/ml/machine-learning-databases/00601/ai4i2020.csv)
-- **Author:** Debayan Panda
+- **Author:**  Debayan Panda
 
 
 ---
